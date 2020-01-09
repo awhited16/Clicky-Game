@@ -1,20 +1,15 @@
-.App-header {
+header {
     background-color: pink;
-    /* display: flex;
-    flex-direction: column; */
-    /* align-items: center;
-    justify-content: center; */
     text-align: center;
-    /* font-size: calc(10px + 2vmin); */
     color: white;
-  }
+}
 
-  h1 {
+h1 {
     padding-top: 30px;
     margin: none;
-  }
+}
 
-  p {
+p {
     padding-bottom: 30px;
     margin: none;
-  }
+}

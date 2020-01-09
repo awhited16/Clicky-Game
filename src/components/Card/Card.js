@@ -6,7 +6,7 @@ import "./card.css";
 const Card = props => (
   <div className="card img-container hover card-column">
       <img alt={props.name} src={props.image} id={props.id}
-        onClick={() => props.shuffleScoreCard(props.id)} className='shuffleScore'/>
+        onClick={() => props.shuffleCards(props.id)} className='shuffleScore'/>
   </div>
 );
 
