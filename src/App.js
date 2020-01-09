@@ -11,7 +11,7 @@ class App extends Component {
     candy,
     selections: [],
     score: 0,
-    goal: 9,
+    goal: 12,
     status: ""
   };
 
@@ -25,8 +25,8 @@ class App extends Component {
     }else{
       selections.push(id)
 
-      if(selections.length === 9){
-        this.setState({score: 9, status: "You Won! Great job clicking all 9 candies. Can you win again?", selections: []});
+      if(selections.length === 12){
+        this.setState({score: 12, status: "You Won! Great job clicking all 9 candies. Can you win again?", selections: []});
         console.log('You Win');
         return;
       }
@@ -51,7 +51,7 @@ class App extends Component {
           </p>
         </header>
         <Score total={this.state.score}
-               goal={9}
+               goal={12}
                status={this.state.status}
                />
         <NavBar>
