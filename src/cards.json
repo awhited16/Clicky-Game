@@ -1,6 +1,6 @@
 [{
     "id": 1,
-    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpeopledotcom.files.wordpress.com%2F2019%2F04%2Fmars-wrigley-candy-internship.jpg&w=650&c=sc&poi=face&q=85"
+    "image": "./mms.jpg"
   },
   {
     "id": 2,
@@ -12,7 +12,7 @@
   },
   {
     "id": 4,
-    "image": "https://cdn.vox-cdn.com/thumbor/UTM4-ITC61Hi6uhv7exq0sE3DlI=/0x0:5616x3744/2420x1613/filters:focal(2359x1423:3257x2321):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/61885679/candy_corn_halloween_history.0.jpg"
+    "image": "./candycorn.jpg"
   },
   {
     "id": 5,
@@ -25,17 +25,32 @@
   },
   {
     "id": 7,
-    "image": "https://images.unsplash.com/photo-1555825191-fe86988bf451?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+    "image": "./milkballs.jpg"
 
   },
   {
     "id": 8,
-    "image": "https://i0.wp.com/feistypeacock.com/wp-content/uploads/2018/04/Skittles-Louisiana-2003.jpg?zoom=3&resize=790%2C395"
+    "image": "./skittles.jpg"
 
   },
   {
     "id": 9,
-    "image": "https://images.unsplash.com/photo-1492116855405-8b92b38dccf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1949&q=80"
+    "image": "./eggs.jpg"
+
+  },
+  {
+    "id": 10,
+    "image": "./gumdrops.jpg"
+
+  },
+  {
+    "id": 11,
+    "image": "./sourpatch.jpg"
+
+  },
+  {
+    "id": 12,
+    "image": "./hearts.jpg"
 
   }
 ]
