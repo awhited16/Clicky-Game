@@ -1,5 +1,4 @@
 import React from "react";
-// import "./Score.css";
 
 //stateless component
 const Score = props => (
